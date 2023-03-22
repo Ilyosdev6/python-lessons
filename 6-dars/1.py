@@ -1,0 +1,5 @@
+ism = input('Ismingizni nima?\n>>>')
+familiya = input('Familiyangiz nima? \n>>>')
+otasinig_ismi = input('Otangizni ismi nima?\n>>>')
+ism_sharif = 'Assalomu alaykum, ' + ism.title() + ' ' + familiya.title() + ' ' + otasinig_ismi.capitalize()
+print(ism_sharif)

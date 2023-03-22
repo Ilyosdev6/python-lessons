@@ -1,0 +1,19 @@
+a = int(input('Istalgan son kiriting: '))
+if a % 2 == 0:
+    print(f'{a} soni 2 ga qoldiqsiz bo\'linadi')
+if a % 3 == 0:
+    print(f'{a} soni 3 ga qoldiqsiz bo\'linadi')
+if a % 4 == 0:
+    print(f'{a} soni 4 ga qoldiqsiz bo\'linadi')
+if a % 5 == 0:
+    print(f'{a} soni 5 ga qoldiqsiz bo\'linadi')
+if a % 6 == 0:
+    print(f'{a} soni 6 ga qoldiqsiz bo\'linadi')
+if a % 7 == 0:
+    print(f'{a} soni 7 ga qoldiqsiz bo\'linadi')
+if a % 8 == 0:
+    print(f'{a} soni 8 ga qoldiqsiz bo\'linadi')
+if a % 9 == 0:
+    print(f'{a} soni 9 ga qoldiqsiz bo\'linadi')
+if a % 10 == 0:
+    print(f'{a} soni 10 ga qoldiqsiz bo\'linadi')
